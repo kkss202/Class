@@ -1,3 +1,8 @@
 {
-
+    "ServerKind": 0,
+    "OrganizationName": "Class122",
+    "PolicySource": {
+        "Value": "https://kkss202.xlphp.net/admin/file/policy.json",
+        "Version": 1
+    }
 }

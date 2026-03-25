@@ -3,7 +3,7 @@
     "OrganizationName": "实验中学集控中心",
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/kkss202/Class/master/file/policy.json",
-        "Version": 3
+        "Version": 4
     },
     "CoreVersion": "2.0.0.0"
 }
